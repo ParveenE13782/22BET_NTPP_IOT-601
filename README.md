@@ -1,6 +1,5 @@
 # 22BET_NTPP_IOT-601
 
-https://leetcode.com/problems/two-sum/description/<br>
 <pre>
 <H1>Easy Level:</H1>
 Write a Java program to implement an ArrayList that stores employee details (ID, Name, and Salary). 
